@@ -11,9 +11,11 @@ Custom macOS 11 Big Sur icon collection for the following applications:
 
 ## Icons
 Contains the relevant premade Apple `ICNS` icon files, ready for download. [\[&nbsp;Preview↗&#xFE0E;&nbsp;\]](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/blob/master/Preview.md)
+<br/><br/>
 
 ## Iconsets
 Contains the deconstructed ICNS files, as Apple `iconset` folders, ready for build, or modification.
+<br/>
 
 #### To Build
 Using the Apple **`iconutil(1)`** terminal application, build the desired icon(s) with the following syntax:
@@ -36,7 +38,7 @@ iconutil -c ICNS -o ~/Pictures/Twitter-1016.icns ~/Downloads/Urufus-bigSurIcons/
 `icon_[width/2]x[height/2]@2.png`\^
 7. Follow instructions under header [**To Build**](#to-build).
 
-#### \^Naming Convention Cheat Sheet
+#### Naming Convention Cheat Sheet\^
 ##### Standard Sizes
 `512x512`&nbsp;&nbsp;->&nbsp;&nbsp;`icon_512x512.png`<br/>
 `256x256`&nbsp;&nbsp;->&nbsp;&nbsp;`icon_256x256.png`<br/>
