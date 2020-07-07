@@ -35,7 +35,7 @@ iconutil -c ICNS -o ~/Pictures/Twitter-1016.icns ~/Downloads/Urufus-bigSurIcons/
 **`icon_[width]x[height].png`**\^
 5. Duplicate all files within the directory
 6. Rename all **duplicates** using the following syntax:<br/>
-`icon_[width/2]x[height/2]@2.png`\^
+**`icon_[width/2]x[height/2]@2.png`**\^
 7. Follow instructions under header [**To Build**](#to-build).
 
 #### Naming Convention Cheat Sheet\^
