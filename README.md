@@ -46,7 +46,7 @@ iconutil -c ICNS -o ~/Pictures/Twitter-1016.icns ~/Downloads/Urufus-bigSurIcons/
 `64x64`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;`icon_64x64.png`<br/>
 `32x32`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;`icon_32x32.png`<br/>
 
-##### Scaled Sizes
+##### Duplicated Sizes
 `512x512`&nbsp;&nbsp;->&nbsp;&nbsp;**`icon_256x256@2.png`**<br/>
 `256x256`&nbsp;&nbsp;->&nbsp;&nbsp;**`icon_128x128@2.png`**<br/>
 `128x128`&nbsp;&nbsp;->&nbsp;&nbsp;**`icon_64x64@2.png`**<br/>
