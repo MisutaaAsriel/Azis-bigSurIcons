@@ -1,4 +1,5 @@
 # Urufu's Big Sur Icons
+![Airdrop](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/raw/master/Iconsets/AirDrop-1016.iconset/icon_64x64.png)![Twitter](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/raw/master/Iconsets/Twitter-1016.iconset/icon_64x64.png)![Discord](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/raw/master/Iconsets/Discord-1016.iconset/icon_64x64.png)![Telegram](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/raw/master/Iconsets/Telegram-1016.iconset/icon_64x64.png)![Parallels](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/raw/master/Iconsets/Parallels-1016.iconset/icon_64x64.png)![Windows VM](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/raw/master/Iconsets/Windows-1016.iconset/icon_64x64.png)<br/>
 Custom macOS 11 Big Sur icon collection for the following applications:
 
 * Twitter
@@ -9,7 +10,7 @@ Custom macOS 11 Big Sur icon collection for the following applications:
 * AirDrop (Finder)
 
 ## Icons
-Contains the relevant premade Apple `ICNS` icon files, ready for download
+Contains the relevant premade Apple `ICNS` icon files, ready for download. [\[&nbsp;Preview↗&#xFE0E;&nbsp;\]](https://github.com/MisutaaUrufu/Urufus-bigSurIcons/blob/master/Preview.md)
 
 ## Iconsets
 Contains the deconstructed ICNS files, as Apple `iconset` folders, ready for build, or modification.
@@ -33,7 +34,7 @@ iconutil -c ICNS -o ~/Pictures/Twitter-1016.icns ~/Downloads/Urufus-bigSurIcons/
 5. Duplicate all files within the directory
 6. Rename all **duplicates** using the following syntax:<br/>
 `icon_[width/2]x[height/2]@2.png`\^
-7. Follow instructions under header **To Build**.
+7. Follow instructions under header [**To Build**](#to-build).
 
 #### \^Naming Convention Cheat Sheet
 ##### Standard Sizes
